@@ -47,11 +47,11 @@
 
 ## 😂 Random Dev Meme
 
-> Click the image below to get a new random meme!
+> Click the meme to view the original post on Reddit!
 
 <p align="center">
-  <a href="https://meme-api.com/gimme" target="_blank">
-    <img src="https://i.imgur.com/4M34hi2.png" width="400px" alt="Click for random meme" />
+  <a href="https://redd.it/1mf0lxd" target="_blank">
+    <img src="https://i.redd.it/eyn9ymkkmfgf1.png" width="400px" alt="me_irl by u/Mern17" />
   </a>
 </p>
 
