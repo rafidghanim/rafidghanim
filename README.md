@@ -47,8 +47,12 @@
 
 ## 😂 Random Dev Meme
 
+> Click the image below to get a new random meme!
+
 <p align="center">
-  <img src="https://randommeme-five.vercel.app/" width="400px" />
+  <a href="https://meme-api.com/gimme" target="_blank">
+    <img src="https://i.imgur.com/4M34hi2.png" width="400px" alt="Click for random meme" />
+  </a>
 </p>
 
 ---
