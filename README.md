@@ -45,9 +45,7 @@
 
 ---
 
-## 😂 Random Dev Meme
-
-> Click the meme to view the original post on Reddit!
+## 😂 Random Meme
 
 <p align="center">
   <a href="https://redd.it/1mf0lxd" target="_blank">
