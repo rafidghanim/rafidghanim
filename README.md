@@ -57,10 +57,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rafidghanim&label=Profile%20Views&color=6A5ACD&icon=0&pretty=true" />
-  </a>
-</p>
 
-<!-- Proudly customized with ❤️ by GPRM (https://gprm.itsvg.in) -->
