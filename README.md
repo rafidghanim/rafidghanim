@@ -5,20 +5,58 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Mono&pause=1000&color=73C9E4&center=true&random=false&width=435&lines=I'm+a+Student;I'm+a+CyberSecurity+Enthusiast;I'm+a+CTF+Player;I'm+an+Anime;Living+Darkside" /></a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafidghanim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafidghanim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidghanim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rafidghanim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=rafidghanim&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="200"/>
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidghanim&theme=tokyonight&hide_border=false" height="200"/>
+  </td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidghanim&theme=tokyonight&layout=compact&hide_border=false" width="40%" />
+</p>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 😂 Random Dev Meme
+
+<p align="center">
+  <img src="https://randommeme-five.vercel.app/" width="400px" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rafidghanim&label=Profile%20Views&color=6A5ACD&icon=0&pretty=true" />
+  </a>
+</p>
+
+<!-- Proudly customized with ❤️ by GPRM (https://gprm.itsvg.in) -->
