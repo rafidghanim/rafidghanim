@@ -1,8 +1,29 @@
-  <h1 align="center"> whoami? </h1>
+<h1 align="center"> whoami? </h1>
+
+<p align="center">
+  <a href="https://github.com/rafidghanim">
+    <img 
+      src="https://avatars.githubusercontent.com/u/132260504?v=4" 
+      width="150" 
+      style="
+        border-radius: 50%;
+        border: 3px solid #2f81f7;
+      " 
+      alt="GitHub Profile Picture"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/r4f_0x22">
+    <img src="https://www.codewars.com/users/r4f_0x22/badges/small" alt="Codewars Badge" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Mono&pause=1000&color=73C9E4&center=true&random=false&width=435&lines=I'm+a+Student;I'm+a+CyberSecurity+Enthusiast;I'm+a+CTF+Player;I'm+an+Anime;Living+Darkside" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Mono&pause=1000&color=73C9E4&center=true&random=false&width=435&lines=I'm+a+Student;I'm+a+CyberSecurity+Enthusiast;I'm+a+CTF+Player;I'm+an+Anime;Living+Darkside" />
+  </a>
 </p>
 
 ## 💻 Tech Stack
@@ -54,5 +75,3 @@
 </p>
 
 ---
-
-
