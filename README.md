@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Mono&pause=1000&color=73C9E4&center=true&random=false&width=435&lines=I'm+a+Student;I'm+a+CyberSecurity+Enthusiast;I'm+a+CTF+Player;I'm+an+Anime;Living+Darkside" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=00E5FF&center=true&vCenter=true&width=480&lines=👾+I'm+a+Student+and+a+Cyber+Security+Enthusiast;⚙️+CTF+Player+|+Living+Darkside;💀+Exploring+The+Art+of+Exploitation" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
